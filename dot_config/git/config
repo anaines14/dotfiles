@@ -1,9 +1,9 @@
 [init]
   defaultBranch = master
 [user]
-  email = joaocosta.work@posteo.net
-  name = JoaoCostaIFG
-  signingKey = EBBA3E93
+  email = n@chos.rocks
+  name = anaines14
+  signingKey = 9FD0A95673076243
 [commit]
   gpgsign = true
 [color]
@@ -25,7 +25,7 @@
   tool = vimdiff
   #conflictstyle = diff3
 [credential]
-  username = JoaoCostaIFG
+  username = anaines14
 [pager]
   show-branch = true
   status = true
