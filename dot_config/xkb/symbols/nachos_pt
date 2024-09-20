@@ -1,0 +1,11 @@
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+        include "pt"
+        name[Group1] = "Nachos PT";
+        key <BKSL>	{[ backslash,	 bar		]};
+        key <AE12> { [ less, greater ] };
+        key <AC10> { [ ordmasculine, ordfeminine ] };
+        key <AC11> { [ dead_tilde, dead_circumflex ] };
+        key <AB03> { [ c, C, ccedilla, Ccedilla ] };
+        key <CAPS> { [ Escape ] };
+};

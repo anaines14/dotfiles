@@ -82,3 +82,6 @@ export DRECORD_SAVEDIR="$HOME/Videos"
 export DTODO_DFLT_FILE="$HOME/Documents/Notes/dtodo_notes/TODO.txt"
 export SCREENSHOT_SAVEDIR="$HOME/Pictures/screenshots/"
 
+# WARNING: THIS MIGHT BREAK STUFF
+# Sets pavucontrol dark theme
+export GTK_THEME=Arc-Dark-solid
