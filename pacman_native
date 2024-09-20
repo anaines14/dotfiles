@@ -7,6 +7,7 @@ adobe-source-serif-fonts
 alacritty
 alsa-utils
 amd-ucode
+android-tools
 android-udev
 ansible
 arc-icon-theme
@@ -92,6 +93,10 @@ gst-plugins-bad
 gst-plugins-good
 gstreamer-vaapi
 gtkmm3
+gvfs
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
 hdparm
 hexyl
 highlight
@@ -144,8 +149,11 @@ lib32-v4l-utils
 lib32-vulkan-radeon
 libappindicator-gtk2
 libayatana-appindicator
+libgepub
+libgsf
 libliftoff
 libnotify
+libopenraw
 libreoffice-fresh
 libva-nvidia-driver
 libva-utils
@@ -266,6 +274,9 @@ texlive-fontsextra
 texlive-fontsrecommended
 texlive-latexextra
 texlive-latexrecommended
+thunar
+thunar-archive-plugin
+thunar-volman
 thunderbird
 time
 tk
@@ -278,6 +289,7 @@ ttf-liberation
 ttf-linux-libertine
 ttf-sourcecodepro-nerd
 ttf-victor-mono-nerd
+tumbler
 udiskie
 udisks2
 ufw
