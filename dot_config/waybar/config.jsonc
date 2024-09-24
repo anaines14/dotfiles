@@ -112,7 +112,7 @@
     },
     "custom/notification": {
         "tooltip": false,
-        "format": "{icon}<span face=\"Font Awesome 6 Free\"><sup>{}</sup></span>",
+        "format": "<span face=\"Font Awesome 6 Free\"><sup>{}</sup></span>{icon}",
         "format-icons": {
             "notification": "",
             "none": "",
