@@ -16,7 +16,7 @@ background = 0b0a18
 background-opacity = 0.95
 
 # Window
-window-decoration = false
+window-decoration = true
 #shell-integration-features = no-cursor
 resize-overlay = never
 
