@@ -84,12 +84,7 @@ export DLINKHANDLER_VIDDIR="$HOME/Videos"
 export DRECORD_SAVEDIR="$HOME/Videos"
 export DTODO_DFLT_FILE="$HOME/Documents/Notes/dtodo_notes/TODO.txt"
 export SCREENSHOT_SAVEDIR="$HOME/Pictures/screenshots/"
-<<<<<<< HEAD
-||||||| parent of 3d65ce9 (WIP)
-
-=======
 
 # WARNING: THIS MIGHT BREAK STUFF
 # Sets pavucontrol dark theme
 export GTK_THEME=Arc-Dark-solid
->>>>>>> 3d65ce9 (WIP)
