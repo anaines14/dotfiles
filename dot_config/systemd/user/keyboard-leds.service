@@ -1,0 +1,11 @@
+[Unit]
+Description=Turn on keyboard leds 
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/polychromatic-cli -d keyboard -o wave -p 1
+ExecStart=/usr/bin/polychromatic-cli -d keyboard -o brightness -p 75
+ExecStart=/usr/bin/polychromatic-cli -d mouse -z logo -o spectrum
+
+[Install]
+WantedBy=openrazer-daemon.service

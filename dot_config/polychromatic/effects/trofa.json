@@ -1,0 +1,23 @@
+{
+    "name": "trofa",
+    "type": 3,
+    "author": "",
+    "icon": "img/effects/sequence.svg",
+    "summary": "",
+    "map_device": "Razer Viper Mini",
+    "map_device_icon": "mouse",
+    "map_graphic": "",
+    "map_cols": 1,
+    "map_rows": 1,
+    "save_format": 8,
+    "revision": 1,
+    "fps": 10,
+    "loop": true,
+    "frames": [
+        {
+            "0": {
+                "0": "#00FF00"
+            }
+        }
+    ]
+}
