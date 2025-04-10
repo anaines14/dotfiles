@@ -1,9 +1,9 @@
 [user]
-  email = me@joaocosta.dev
-  name = JoaoCostaIFG
-  signingKey = 0x4DCA5163F4FFE6A2DDBD087AE709F16FAE6D1C2B
+  email = n@chos.rocks
+  name = anaines14
+  signingKey = 9FD0A95673076243
 [credential]
-  username = JoaoCostaIFG
+  username = anaines14
 [branch]
   sort = -committerdate
 [color]
