@@ -49,6 +49,7 @@ ddrescue
 detox
 dhcpcd
 dino
+discord
 docker
 docker-buildx
 docker-compose
@@ -115,14 +116,11 @@ hyprcursor
 hypridle
 hyprland
 hyprland-qtutils
-hyprlang
 hyprlock
 hyprpaper
 hyprpicker
 hyprpolkitagent
 hyprsunset
-hyprutils
-hyprwayland-scanner
 imagemagick
 imv
 inetutils
@@ -196,7 +194,6 @@ moonlight-qt
 mosh
 mpv
 mpv-mpris
-neofetch
 neovim
 net-tools
 networkmanager
@@ -226,6 +223,7 @@ pacman-contrib
 patchelf
 pavucontrol
 perf
+perl-image-exiftool
 perl-locale-gettext
 pipewire-alsa
 pipewire-pulse
@@ -329,7 +327,7 @@ wine-staging
 winetricks
 wireless-regdb
 wl-clipboard
-wlroots
+wlroots0.18
 xclip
 xdg-desktop-portal
 xdg-desktop-portal-gtk
