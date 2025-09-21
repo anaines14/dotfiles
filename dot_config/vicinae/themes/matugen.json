@@ -5,15 +5,15 @@
   "name": "Matugen",
   "description": " A material you color generation tool",
   "palette": {
-    "background": "#0f1416",
-    "foreground": "#dee3e6",
-    "blue": "#85d2e8",
-    "green": "#c0c4eb",
-    "magenta": "#85d2e8",
-    "orange": "#dee3e6",
-    "purple": "#899295",
+    "background": "#10140f",
+    "foreground": "#e0e4db",
+    "blue": "#a1d39a",
+    "green": "#a0cfd4",
+    "magenta": "#a1d39a",
+    "orange": "#e0e4db",
+    "purple": "#8c9388",
     "red": "#ffb4ab",
-    "yellow": "#b2cbd3",
-    "cyan": "#b2cbd3"
+    "yellow": "#baccb3",
+    "cyan": "#baccb3"
   }
 }
