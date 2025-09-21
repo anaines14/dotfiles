@@ -57,6 +57,14 @@
             glob: true
             path: ifgdt/hypr/override.d/*
 
+- if:
+    cond: hostname | grep -q 'nachospc'
+    met:
+      - link:
+          ~/.config/hypr/override.d/:
+            glob: true
+            path: ifgdt/hypr/override.d/*
+
 - ghe:
     - github/gh-copilot
 
