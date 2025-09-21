@@ -1,4 +1,4 @@
 [Desktop Entry]
 Type=Application
-Name=firefox
-Exec=/usr/lib/firefox/firefox %u
+Name=librewolf
+Exec=/usr/bin/librewolf %u
