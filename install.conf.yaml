@@ -62,7 +62,7 @@
       - link:
           ~/.config/hypr/override.d/:
             glob: true
-            path: ifgdt/hypr/override.d/*
+            path: nachospc/hypr/override.d/*
 
 - ghe:
     - github/gh-copilot
